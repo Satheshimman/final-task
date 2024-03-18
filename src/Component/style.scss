@@ -1,0 +1,108 @@
+.card-border{
+    border: 1px solid rgba(128, 128, 128, 0.397);
+}
+
+.moviename{
+    font-size: 16px;
+    font-weight: 600;
+}
+.movieratingg{
+    margin-top: -20px;
+}
+.movierating{
+    font-size: 16px;
+    font-weight: 600;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+
+.movieaverage{
+    font-size: 16px;
+    font-weight: 600;
+    margin-right: 5px;
+}
+
+.moviestar{
+    font-size: 13px;
+    font-weight: 600;
+    margin-right: 2px;
+    
+}
+
+.moviei{
+    margin-top: -4px;
+}
+
+.moviestarr{
+    background-color: green;
+    display: inline-block;
+    padding: 0px 4px 0px 6px;
+    color: white;
+}
+
+.detailsbtn{
+    button{
+        border: none;
+        outline: none;
+        background-color: orangered;
+        padding: 2px 5px;
+        font-weight: 600;
+        color: white;
+    }
+}
+
+.heading{
+    margin: 20px 0px;
+    p{
+        display: inline-block;
+        padding: 10px 20px;
+        color: white;
+        box-shadow: 5px 5px 5px white;
+        border-radius: 5px;
+        font-size: 20px;
+        font-weight: 600;
+    }
+}
+
+.details-card{
+    border: 1px solid rgba(128, 128, 128, 0.295);
+    padding: 10px 10px;
+    box-shadow: 5px 5px 5px white;
+}
+
+.card-details{
+    padding: 10px 30px;
+    p{
+        font-size: 18px;
+        font-weight: 600;
+    }
+}
+
+
+.detail-movie-name{
+    p{
+        font-size: 18px;
+        font-weight: 600;
+    }
+}
+
+.detail-movie-runtime{
+    p{
+        font-size: 18px;
+        font-weight: 600;
+    }
+}
+
+.star{
+    margin-top: -5px;
+}
+
+.movie-rating-star{
+    margin-left: 6px;
+    margin-top: 1px;
+    font-size: 13px;
+    font-weight: 600;
+    background-color: green;
+    color: white;
+    padding: 2px 5px;
+}
