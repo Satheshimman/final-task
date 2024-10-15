@@ -46,7 +46,7 @@ export const Details=()=>{
                                 <div className="col-12">
                                    <div className="d-block d-lg-flex  justify-content-between align-items-start details-card">
                                         <div className="col-12 col-sm-12 col-md-6 col-lg-5">
-                                            <img className="w-100" src={a.image.original}/>
+                                            <img className="w-100" src={a.image.original} alt="detail images"/>
                                         </div>
 
                                         <div className="col-12 col-sm-12 col-md-6 col-lg-7">
