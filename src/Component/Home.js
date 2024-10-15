@@ -45,7 +45,7 @@ export const Home=()=>{
                             <div className="col-12 col-sm-12 col-md-6 col-lg-4 p-4">
                                 <div className="card-border p-3 shadow-1">
                                     <div className="">
-                                        <img src={a.image.original} className="w-100"></img>
+                                        <img src={a.image.original} className="w-100" alt="images"></img>
                                     </div>
 
                                     <div className="">
